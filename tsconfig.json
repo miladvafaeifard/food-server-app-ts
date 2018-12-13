@@ -1,0 +1,11 @@
+﻿{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "declaration": false,
+        "experimentalDecorators": true,
+        "strict": true,
+        "noImplicitReturns": true,
+        "allowSyntheticDefaultImports": true
+    }
+}
